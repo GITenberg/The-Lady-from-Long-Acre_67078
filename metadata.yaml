@@ -5,6 +5,9 @@ contributor:
     agent_name: Rohn, Ray
     gutenberg_agent_id: '54101'
     url: http://www.gutenberg.org/2009/agents/54101
+covers:
+- cover_type: archival
+  image_path: 67078-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bridges, Victor
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3566
     wikipedia: https://en.wikipedia.org/wiki/Victor_Bridges
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67078#The-Lady-from-Long-Acre
 gutenberg_issued: '2022-01-02'
 identifiers:
   gutenberg: '67078'
